@@ -3,3 +3,5 @@
 convolutional-neural-networks/cifar-cnn/data/*
 project-dog-classification/dogImages*
 project-dog-classification/lfw*
+*.pt
+*.zip
